@@ -1,0 +1,42 @@
+{
+  "name": "language-vbs",
+  "main": "./lib/language-vbs",
+  "version": "0.1.0",
+  "description": "Syntax highlighting for VB Script",
+  "keywords": [
+    "language",
+    "visual basic",
+    "vb",
+    "visualbasic",
+    "vb.net"
+  ],
+  "author": {
+    "name": "NandanSharma"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NandanSharma/AtomPackages.git"
+  },
+  "homepage": "https://github.com/NandanSharma",
+  "license": "GNU GPL v3",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "readme": "Visual Basic highlighting for Atom",
+  "readmeFilename": "README.md",
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/NandanSharma/AtomPackages/issues"
+  },
+  "_id": "language-vbs@0.1.0",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
